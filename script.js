@@ -9,3 +9,5 @@ button.addEventListener('click', function func() {
 button.addEventListener('dblclick', function() {
   body.style.backgroundImage = "url('https://get.pxhere.com/photo/nature-flower-mountain-wilderness-wildflower-mount-scenery-vegetation-mountainous-landforms-national-park-flora-tourism-plant-mountain-range-tourist-attraction-lake-spring-sky-landscape-meadow-fjord-tree-computer-wallpaper-1422619.jpg')";
 });
+
+console.log('2');
